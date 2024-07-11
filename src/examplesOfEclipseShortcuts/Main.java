@@ -28,7 +28,9 @@ public class Main {
 		/*
 		 * Testing Chosen shortcuts by me: CTRL + Shift + / : Creates a comment block
 		 * CTRL + Shift + P : It takes your cursor to the ending bracket of the section
-		 * your cursor is currently on. CTRL + “+” : Zoom In
+		 * your cursor is currently on. 
+		 * CTRL + “+” : Zoom In
+		 * CTRL + “-” : Zoom In
 		 */
 
 	}
