@@ -3,8 +3,6 @@ package examplesOfEclipseShortcuts;
 import java.io.BufferedReader;
 import java.io.InputStreamReader;
 
-// Delete this commit, it is being used to test a pull request
-
 // CTRL + Space + L : A list will pop up with all eclipse hot-keys
 
 public class Main {
